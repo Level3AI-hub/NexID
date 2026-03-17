@@ -79,9 +79,9 @@ cd NexDomains/sdk && npm install && npm run build
 - **Academy**: [academy.nexid.fun](https://academy.nexid.fun)
 - **Domains**: [names.nexid.fun](https://names.nexid.fun)
 - **GitHub**: [github.com/Level3AI-hub/NexID](https://github.com/Level3AI-hub/NexID)
-- **Docs**: [safuverse.gitbook.io/safuverse-docs](https://safuverse.gitbook.io/safuverse-docs/)
-- **Twitter**: [@SafuVerse](https://x.com/SafuVerse)
-- **Discord**: [discord.gg/safuverse](https://discord.gg/safuverse)
+- **Docs**: [docs.nexid.fun](https://docs.nexid.fun)
+- **Twitter**: [@UseNexID](https://x.com/UseNexID)
+- **Discord**: [discord.gg/](https://discord.gg/)
 
 ---
 

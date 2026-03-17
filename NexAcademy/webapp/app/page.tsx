@@ -129,7 +129,7 @@ const HOME_HTML =
   <div class="flex items-center gap-4">
     <button onclick="openConnectionModal('Partner Console')" class="px-5 py-2.5 bg-transparent border border-[#333] text-white font-medium text-sm rounded-lg hover:bg-[#111] hover:border-[#555] transition-all active:scale-95 hidden sm:block">Partner Portal</button>
     <button onclick="openConnectionModal('Student Protocol')" class="px-6 py-2.5 bg-white text-black font-bold text-sm rounded-lg hover:shadow-[0_0_20px_rgba(255,255,255,0.4)] transition-all active:scale-95 flex items-center gap-2">
-      Launch App
+      Login
     </button>
   </div>
 </header>
