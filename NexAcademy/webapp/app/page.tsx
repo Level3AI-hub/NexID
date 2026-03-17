@@ -457,17 +457,23 @@ const HOME_HTML =
     </div>
   </section>
 
-  <footer class="py-10 border-t border-[#1a1a1a] bg-[#030303] text-center relative z-10">
-    <div class="font-display font-black text-2xl tracking-tighter text-white mb-3">N<span class="hidden sm:inline">ex</span>ID<span class="text-nexid-gold">.</span></div>
-    <div class="text-[10px] font-mono text-nexid-muted uppercase tracking-widest mb-6">Interactive Identity Protocol</div>
-    <div class="flex justify-center gap-6 text-sm font-medium text-nexid-muted">
-      <a href="https://x.com/SafuVerse" target="_blank" rel="noreferrer" class="nav-link hover:text-white transition-colors">X (Twitter)</a>
-      <a href="https://discord.gg/safuverse" target="_blank" rel="noreferrer" class="nav-link hover:text-white transition-colors">Discord</a>
-      <a href="https://safuverse.gitbook.io/safuverse-docs/" target="_blank" rel="noreferrer" class="nav-link hover:text-white transition-colors">Docs</a>
-      <a href="https://github.com/" target="_blank" rel="noreferrer" class="nav-link hover:text-white transition-colors">GitHub</a>
-    </div>
-    <div class="mt-8 text-[10px] text-[#555] font-mono">2026 NexID. All rights reserved.</div>
-  </footer>
+ <footer class="py-10 border-t border-[#1a1a1a] bg-[#030303] text-center relative z-10">
+      <div class="font-display font-black text-2xl tracking-tighter text-white mb-3">N<span
+          class="hidden sm:inline">ex</span>ID<span class="text-nexid-gold">.</span></div>
+      <div class="text-[10px] font-mono text-nexid-muted uppercase tracking-widest mb-6">Interactive Identity Protocol
+      </div>
+      <div class="flex justify-center gap-6 text-sm font-medium text-nexid-muted">
+        <a href="https://x.com/usenexid" target="_blank" rel="noreferrer"
+          class="nav-link hover:text-white transition-colors">X (Twitter)</a>
+        <a href="https://discord.gg/zv9rWkBm" target="_blank" rel="noreferrer"
+          class="nav-link hover:text-white transition-colors">Discord</a>
+        <a href="https://docs.nexid.fun" target="_blank" rel="noreferrer"
+          class="nav-link hover:text-white transition-colors">Docs</a>
+        <a href="https://github.com/Level3AI-Hub/NexID" target="_blank" rel="noreferrer"
+          class="nav-link hover:text-white transition-colors">GitHub</a>
+      </div>
+      <div class="mt-8 text-[10px] text-[#555] font-mono">2026 NexID. All rights reserved.</div>
+    </footer>
 </main>
 
 <div id="connect-modal" class="modal-overlay fixed inset-0 flex items-center justify-center p-4">
