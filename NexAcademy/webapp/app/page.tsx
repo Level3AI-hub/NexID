@@ -118,6 +118,9 @@ const HOME_HTML =
   </div>
 
   <nav class="hidden md:flex gap-8 text-sm font-medium">
+   <a href="https://nexid.fun" class="text-nexid-muted transition-colors hover:text-white">
+            Home
+          </a>
     <a href="#campaigns" class="nav-link text-nexid-muted hover:text-white transition-colors">Campaigns</a>
     <a href="#journey" class="nav-link text-nexid-muted hover:text-white transition-colors">How it Works</a>
     <a href="/partner-portal" class="nav-link text-nexid-muted hover:text-white transition-colors">For Protocols</a>

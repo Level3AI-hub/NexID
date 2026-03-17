@@ -193,6 +193,9 @@ export default function PartnerPortalPage() {
         </div>
 
         <nav className="hidden gap-8 text-sm font-medium md:flex">
+          <a href="https://nexid.fun" className="text-nexid-muted transition-colors hover:text-white">
+            Home
+          </a>
           <a href="#roi" className="text-nexid-muted transition-colors hover:text-white">
             The Paradigm
           </a>
