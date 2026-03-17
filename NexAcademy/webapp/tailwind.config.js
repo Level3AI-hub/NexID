@@ -31,6 +31,8 @@ module.exports = {
           muted: "#8a8a8a",
           success: "#22c55e",
           danger: "#ef4444",
+          cyan: "#22d3ee",
+          purple: "#a855f7",
           alert: "#f97316",
           rank1: "#FFD700",
           rank2: "#C0C0C0",
@@ -90,6 +92,9 @@ module.exports = {
       boxShadow: {
         premium: "0 20px 40px -10px rgba(0,0,0,0.8), 0 1px 3px rgba(0,0,0,0.5)",
         "gold-glow": "0 0 30px -5px rgba(255,176,0,0.2)",
+        "cyan-glow": "0 0 30px -5px rgba(34,211,238,0.2)",
+        "purple-glow": "0 0 30px -5px rgba(168,85,247,0.2)",
+        "danger-glow": "0 0 30px -5px rgba(239,68,68,0.2)",
         "gold-glow-lg": "0 0 60px -10px rgba(255,176,0,0.35)",
         "success-glow": "0 0 40px -5px rgba(34,197,94,0.3)",
         "inner-glaze": "inset 0 1px 1px rgba(255,255,255,0.05)",
